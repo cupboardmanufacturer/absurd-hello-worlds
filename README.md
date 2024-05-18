@@ -1,9 +1,1 @@
-words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap 
-words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap 
-words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap 
-words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap 
-words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap 
-words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap 
-words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap 
-words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap 
-words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap words words words yap yap yap 
+a collection of absurd hello worlds
